@@ -4,7 +4,7 @@
 
 #ifndef AIRPLANEMANAGER_CUSTOMER_H
 #define AIRPLANEMANAGER_CUSTOMER_H
-
+h
 
 class Customer {
 };
